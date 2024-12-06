@@ -1,0 +1,9 @@
+[submodule "Plugins/FGMovement"]
+	path = Plugins/FGMovement
+	url = https://github.com/daftsoftware/FGMovement
+[submodule "Plugins/InteractSystem"]
+	path = Plugins/InteractSystem
+	url = https://github.com/Ji-Rath/UEInteractSystem
+[submodule "Plugins/SUQS"]
+	path = Plugins/SUQS
+	url = https://github.com/sinbad/SUQS
