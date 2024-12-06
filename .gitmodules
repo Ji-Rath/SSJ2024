@@ -1,6 +1,6 @@
 [submodule "Plugins/FGMovement"]
 	path = Plugins/FGMovement
-	url = https://github.com/daftsoftware/FGMovement
+	url = https://github.com/Ji-Rath/FGMovement
 [submodule "Plugins/InteractSystem"]
 	path = Plugins/InteractSystem
 	url = https://github.com/Ji-Rath/UEInteractSystem
