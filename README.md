@@ -25,3 +25,8 @@ Story:
 - the challenges involve being resourceful (crafting), and using physics to traverse level
 - once all challenges are complete, player leaves store and repairs car
 - the end
+
+Levels
+- Introduce build mode - drag/drop physics blocks and crafting
+- Introduce block breaking and blueprint researching
+- Introduce pressure pads and springs - springs to jump to high places and drop blocks on pad to trigger reactions
