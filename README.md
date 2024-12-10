@@ -27,6 +27,6 @@ Story:
 - the end
 
 Levels
-- Introduce build mode - drag/drop physics blocks and crafting
-- Introduce block breaking and blueprint researching
+- Introduce build mode - drag/drop physics blocks
+- Introduce blueprint researching/crafting
 - Introduce pressure pads and springs - springs to jump to high places and drop blocks on pad to trigger reactions
