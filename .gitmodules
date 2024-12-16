@@ -7,3 +7,6 @@
 [submodule "Plugins/SUQS"]
 	path = Plugins/SUQS
 	url = https://github.com/sinbad/SUQS
+[submodule "Plugins/DlgSystem"]
+	path = Plugins/DlgSystem
+	url = https://github.com/NotYetGames/DlgSystem

@@ -29,4 +29,4 @@ Story:
 Levels
 - Introduce build mode - drag/drop physics blocks
 - Introduce blueprint researching/crafting
-- Introduce pressure pads and springs - springs to jump to high places and drop blocks on pad to trigger reactions
+- Introduce pressure plates and ramps - ramps to jump to high places and drop blocks on pad to trigger reactions
