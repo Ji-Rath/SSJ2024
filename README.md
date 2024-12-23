@@ -1,9 +1,13 @@
 # SSJ2024
- Secret Santa Jam 2024 Project
+Secret Santa Jam 2024 Project
+
+Developed with Unreal Engine 5.5
+
+ItchIo can be found here: https://jirath.itch.io/roadtrip
 
 game perspective similar to celeste (but in 3d) so more similar to octopath traveler
 gameplay similar to breath of the wild (puzzles, physics, breaking, abilities, etc)
-
+# Overview 
 - you can move in 3d space
 - you can break things with your axe
 - you can make things with your crafting table
@@ -14,7 +18,7 @@ gameplay similar to breath of the wild (puzzles, physics, breaking, abilities, e
 - possibly a place mode
 
 
-Story:
+# Story:
 - Guy is driving on the highway
 - Car breaks down
 - Sees nearby carshop and goes there
